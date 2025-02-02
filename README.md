@@ -75,8 +75,6 @@ On this assignment i choose additive attention because from Perplexity score dur
 in my opinion agree with a lower perplexity score is considered better cause it indicates that the model is more confident in its predictions and has a better understanding of the language patterns
 
 ## Demo Web Application 
-<img width="1440" alt="Screenshot 2568-02-03 at 5 28 45 AM" src="https://github.com/user-attachments/assets/f96e8014-2bd6-4edb-9ecd-019440ddcc8f" />
-
 How to run: python app.py
 
-This is the link to go to VDO Demo -> https://youtu.be/Xwg79NKZRuY
+This is the link to go to VDO Demo -> https://youtu.be/D0jgfrWNQnY
