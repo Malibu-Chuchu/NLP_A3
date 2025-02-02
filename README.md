@@ -5,6 +5,7 @@ Thai - English Translation
 
 ## 1. Source
 - My word dictionary that i use is SCB_MT_EN_TH v1.0 from SCB (which provide in the folder named as data)
+- FYI: my model .pt cannot upload cause it too large so you can access via this link: https://drive.google.com/drive/folders/1G1Z4PoNgbeBK5TF3vhaSXamxfSps7Rsx?usp=sharing
 
 ## 2. Dataset Preparation Process
 Start by importing the parallel corpus from two separate files containing English (en.txt) and Thai (th.txt) text data. Leverage TorchData's capabilities to efficiently handle and process these language pairs.
@@ -73,5 +74,11 @@ These visualizations demonstrate both the model's learning progress and its atte
 On this assignment i choose additive attention because from Perplexity score during evaluation stage,  
 in my opinion agree with a lower perplexity score is considered better cause it indicates that the model is more confident in its predictions and has a better understanding of the language patterns
 
-## 5.How to run the application:
-python app.py
+## Application 
+How to run: python app.py
+
+
+Uploading Screen Recording 2568-02-03 at 5.27.32 AM.mov…
+
+<img width="1440" alt="Screenshot 2568-02-03 at 5 28 45 AM" src="https://github.com/user-attachments/assets/8c167446-fd47-463e-a1e0-ff0d6371d9cf" />
+
