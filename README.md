@@ -4,7 +4,7 @@
 Thai - English Translation 
 
 ## 1. Source
-- My word dictionary that i use is SCB_MT_EN_TH v1.0 from SCB (which provide in folder name data
+- My word dictionary that i use is SCB_MT_EN_TH v1.0 from SCB (which provide in the folder named as data)
 
 ## 2. Dataset Preparation Process
 Start by importing the parallel corpus from two separate files containing English (en.txt) and Thai (th.txt) text data. Leverage TorchData's capabilities to efficiently handle and process these language pairs.
